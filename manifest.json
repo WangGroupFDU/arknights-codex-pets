@@ -1,0 +1,166 @@
+{
+  "collection": "Arknights Codex Pets",
+  "version": "1.0.0",
+  "releaseDate": "2026-07-15",
+  "petCount": 7,
+  "atlasContract": {
+    "spriteVersionNumber": 2,
+    "width": 1536,
+    "height": 2288,
+    "columns": 8,
+    "rows": 11,
+    "cellWidth": 192,
+    "cellHeight": 208,
+    "format": "WEBP",
+    "mode": "RGBA"
+  },
+  "pets": [
+    {
+      "id": "doctor-doctor",
+      "displayName": "博士士",
+      "description": "来自罗德岛的黑色头盔博士桌宠，沉稳、好奇而可靠。",
+      "spriteVersionNumber": 2,
+      "spritesheetPath": "spritesheet.webp",
+      "sha256": {
+        "pet.json": "31af5edd52874368b06f349c8c211eee4faea92e3f92e4d6fc2dabb810aa1aae",
+        "spritesheet.webp": "b64f73240fcc95ac8d816a732a2a3e49b03269a137bb4de6ff10bd6170bbe730"
+      },
+      "validation": {
+        "ok": true,
+        "width": 1536,
+        "height": 2288,
+        "columns": 8,
+        "rows": 11,
+        "mode": "RGBA",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "id": "mimiko",
+      "displayName": "米米子",
+      "description": "棕发蓝眼、长兔耳、穿青蓝兜帽制服的活泼 Q 版米米子。",
+      "spriteVersionNumber": 2,
+      "spritesheetPath": "spritesheet.webp",
+      "sha256": {
+        "pet.json": "64e1be508cdcd8a16e761622ff8b9194e707f3a374d4bfff0110a06b11fa6600",
+        "spritesheet.webp": "270068f2b77d6b7af5b5edfe337ca5d64ee7759076a0fe0a3a2efb397910b742"
+      },
+      "validation": {
+        "ok": true,
+        "width": 1536,
+        "height": 2288,
+        "columns": 8,
+        "rows": 11,
+        "mode": "RGBA",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "id": "kaltsit-tan",
+      "displayName": "凯尔希炭",
+      "description": "冷静可靠、少言的绿耳猫娘凯尔希炭桌面宠物。",
+      "spriteVersionNumber": 2,
+      "spritesheetPath": "spritesheet.webp",
+      "sha256": {
+        "pet.json": "1b8e15926b80416b1a6ea1b539fb8af816a593a5225bc9ede31049fb12b9c8d5",
+        "spritesheet.webp": "048a16846eae5e85fa60b636f764e31c4518c11705b8fbb3077dfed43058df69"
+      },
+      "validation": {
+        "ok": true,
+        "width": 1536,
+        "height": 2288,
+        "columns": 8,
+        "rows": 11,
+        "mode": "RGBA",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "id": "weiweimei",
+      "displayName": "维维美",
+      "description": "银发金瞳、红黑配色、带恶魔尾巴的元气维维美小宠物。",
+      "spriteVersionNumber": 2,
+      "spritesheetPath": "spritesheet.webp",
+      "sha256": {
+        "pet.json": "a24da2518f2b4c344f52923b7a9bff7fab298ed2b8433b238cc277e6502fe3fd",
+        "spritesheet.webp": "fa59171e2ed2da5132ca7535558282144e1b8aa5addec1d888e60ebae36ce0d1"
+      },
+      "validation": {
+        "ok": true,
+        "width": 1536,
+        "height": 2288,
+        "columns": 8,
+        "rows": 11,
+        "mode": "RGBA",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "id": "liangyan-yinhui",
+      "displayName": "靓眼银灰",
+      "description": "白发兽耳、黑灰羽领披风与青色耳坠的沉着帅气 Q 版伙伴，肩旁常伴一只小鸟。.",
+      "spriteVersionNumber": 2,
+      "spritesheetPath": "spritesheet.webp",
+      "sha256": {
+        "pet.json": "51c4857992abfde6c93e4cf4a376ec718ecc2f423d77fa3e75571e7d6d4ead1f",
+        "spritesheet.webp": "fbe10944a1fca0b08baa790e832e3a7cb31f4bd1673e0eb58dd911c5e26118a7"
+      },
+      "validation": {
+        "ok": true,
+        "width": 1536,
+        "height": 2288,
+        "columns": 8,
+        "rows": 11,
+        "mode": "RGBA",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "id": "xianyou-nengtianshi",
+      "displayName": "闲游能天使",
+      "description": "冷静可靠、偶尔脱线，工作时认真专注、休息时格外可爱的行动派。",
+      "spriteVersionNumber": 2,
+      "spritesheetPath": "spritesheet.webp",
+      "sha256": {
+        "pet.json": "89e64928c4662cc8564ec080c6030b0ccb5d304b72d6ee60c1bf7bf264920584",
+        "spritesheet.webp": "58f75cc17aa0713b21a912b01fa4e30ef5be6d8a5b42f48090e6a4df67fdd49b"
+      },
+      "validation": {
+        "ok": true,
+        "width": 1536,
+        "height": 2288,
+        "columns": 8,
+        "rows": 11,
+        "mode": "RGBA",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "id": "jiemen-dekesasi",
+      "displayName": "解闷德克萨斯",
+      "description": "沉静可靠、偶尔会露出可爱表情的灰黑发兽耳小伙伴。",
+      "spriteVersionNumber": 2,
+      "spritesheetPath": "spritesheet.webp",
+      "sha256": {
+        "pet.json": "f0d91dfae953d98743cad0e0395023f82d82c812b910344cee3367141a249cfb",
+        "spritesheet.webp": "e58b023fb588553adb9f762cd19d799bbd4d26d97bad79ffbde332051ca17a1c"
+      },
+      "validation": {
+        "ok": true,
+        "width": 1536,
+        "height": 2288,
+        "columns": 8,
+        "rows": 11,
+        "mode": "RGBA",
+        "errors": [],
+        "warnings": []
+      }
+    }
+  ]
+}
