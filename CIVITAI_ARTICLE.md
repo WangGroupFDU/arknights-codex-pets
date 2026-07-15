@@ -6,7 +6,7 @@ I made a collection of seven animated desktop companions for the Codex app, insp
 
 The complete pack is free on GitHub:
 
-**https://github.com/WangGroupFDU/arknights-codex-pets**
+[Open the GitHub repository](https://github.com/WangGroupFDU/arknights-codex-pets)
 
 ## What is included?
 
@@ -98,15 +98,14 @@ The sprites were created with an AI-assisted OpenAI Codex ImageGen and Hatch Pet
 
 GitHub repository:
 
-**https://github.com/WangGroupFDU/arknights-codex-pets**
+[Open the GitHub repository](https://github.com/WangGroupFDU/arknights-codex-pets)
 
 Latest release:
 
-**https://github.com/WangGroupFDU/arknights-codex-pets/releases/latest**
+[Download the latest release](https://github.com/WangGroupFDU/arknights-codex-pets/releases/latest)
 
 The English README contains complete installation instructions, troubleshooting, individual package IDs, and full animation previews.
 
 ## Disclaimer
 
 This is an unofficial, non-commercial fan project. Arknights and all related characters and original designs belong to Hypergryph and their respective publishers. This project is not affiliated with or endorsed by Hypergryph, Yostar, OpenAI, or the Codex team.
-

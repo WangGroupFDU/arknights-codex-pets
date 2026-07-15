@@ -4,6 +4,8 @@
 
 Seven unofficial, fan-made animated desktop pets for the Codex app. Each pet is packaged in the Codex V2 format with nine standard animation states and sixteen clockwise look directions.
 
+See the [Civitai showcase article](https://civitai.com/articles/32605/seven-arknights-inspired-animated-codex-pets-free-v2-pack) for a guided overview and character previews.
+
 ## Included pets
 
 | Pet | Display name | Package ID | Preview |
@@ -167,4 +169,3 @@ Download the matching individual ZIP from the GitHub release, or copy only that 
 The pet sprites were created with an AI-assisted OpenAI Codex ImageGen and Hatch Pet V2 workflow from user-provided character reference sheets.
 
 This is an unofficial, non-commercial fan project. *Arknights* and all related characters, names, and original designs belong to Hypergryph and their respective publishers. This repository is not affiliated with or endorsed by Hypergryph, Yostar, OpenAI, or the Codex team. See [NOTICE.md](NOTICE.md) for the distribution notice.
-
